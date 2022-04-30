@@ -189,7 +189,7 @@ div.desc {
 .main .contact{
     padding:10%;
 }
-.main contact-body{
+.main .contact-body .contact{
     background-image: url(pika.jpeg);
     text-align:center;
     height:500px;
@@ -204,4 +204,5 @@ div.desc {
     padding:10px;
     width:80%;
     height:600px;
+    /* End of contact */
 }
